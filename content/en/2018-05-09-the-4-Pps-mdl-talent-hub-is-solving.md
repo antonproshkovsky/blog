@@ -3,9 +3,8 @@ title: The 4 P's MDL Talent Hub is solving.
 date: 2018-05-09
 short_description: MDL Talent Hub is creating 3 ecosystems in 1 platform that will solve the problems of talent-bookers & agents, talents and brands.
 image: images/80/2018-05-09-the-4-Pps-mdl-talent-hub-is-solving1.jpg
-next_article:
+next_article: /en/2018-05-23-how-mdl-talent-hub-is-implementing-ai
 prev_article: /en/2018-05-04-mdl-development-strategy
-show_in_top: show
 lan: en
 ---
 
